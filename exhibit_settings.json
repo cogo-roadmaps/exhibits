@@ -1,0 +1,16 @@
+{
+    "default_panic": "John Doe",
+    "default_panic_url": 30,
+    "default_url": "johndoe@example.com",
+    "TV_configs": {
+            "name": "Noc1",
+            "url": "555-1234",
+            "panic": 1,
+            "panic_url":
+        },
+        {
+            "type": "work",
+            "number": "555-5678"
+        }
+    ]
+}
