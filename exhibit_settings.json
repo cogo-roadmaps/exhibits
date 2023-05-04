@@ -13,7 +13,7 @@
         },
         "Common-TV3": {
             "panic-": false,
-            "url" : "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/testing.csv"
+            "url" : "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/panic.csv"
         }
     }
 }
