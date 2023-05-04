@@ -10,10 +10,6 @@
         },
         "Common-TV2": {
             "panic-": true
-        },
-        "Common-TV3": {
-            "panic-": false,
-            "url" : "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/panic.csv"
         }
     }
 }
