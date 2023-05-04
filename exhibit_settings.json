@@ -1,15 +1,15 @@
 {
-    "default_panic": false,
-    "default_panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/panic.csv",
-    "default_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/commonTV.csv",
+    "default_panic*": false,
+    "default_panic_url*": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/panic.csv",
+    "default_url*": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/commonTV.csv",
     "TV_configs": {
         "Noc1": {
             "url": "555-1234",
-            "panic": true,
+            "panic*": true,
             "panic_url": "sg"
         },
         "Noc2": {
-            "panic": false
+            "panic*": false
         }
     }
 }
