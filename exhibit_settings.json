@@ -4,9 +4,9 @@
     "default_url*": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/commonTV.csv",
     "TV_configs": {
         "Noc1": {
-            "url": "555-1234",
+            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/commonTV.csv",
             "panic*": true,
-            "panic_url": "sg"
+            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/panic.csv"
         },
         "Noc2": {
             "panic*": false
