@@ -1,16 +1,17 @@
 {
-    "default_panic": "John Doe",
-    "default_panic_url": 30,
-    "default_url": "johndoe@example.com",
-    "TV_configs": {
+    "default_panic": 0,
+    "default_panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/panic.csv",
+    "default_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/commonTV.csv",
+    "TV_configs": [
+        {
             "name": "Noc1",
             "url": "555-1234",
-            "panic": 1,
-            "panic_url":
+            "panic*": 1,
+            "panic_url": "sg"
         },
         {
-            "type": "work",
-            "number": "555-5678"
+            "name": "Noc2",
+            "panic": 0
         }
     ]
 }
