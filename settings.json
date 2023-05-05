@@ -12,7 +12,7 @@
             "panic-": true
         },
         "Noc2": {
-            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc1.csv",
+            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc2.csv",
             "panic-": false,
             "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
         }
