@@ -20,6 +20,21 @@
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc3.csv",
             "panic-": false,
             "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+        },
+        "Noc4": {
+            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc4.csv",
+            "panic-": false,
+            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+        },
+        "Noc5": {
+            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc5.csv",
+            "panic-": false,
+            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+        },
+        "Noc6": {
+            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc5.csv",
+            "panic-": false,
+            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
         }
     }
 }
