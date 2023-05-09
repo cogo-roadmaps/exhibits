@@ -9,7 +9,7 @@
             "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
         },
         "Common-TV2": {
-            "panic-": true
+            "panic-": false
         },
         "Noc2": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc2.csv",
