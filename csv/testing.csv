@@ -1,2 +1,5 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/images/The%20Nexus%20of%20Innovation%20and%20Entrepreneurship.jpg,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+CogoHelp,https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/images/cogohelp.mp4,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+MayEvent,https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/images/May_2023_Events.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+CogoLabsLogo,https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/images/cogo-labs-logo.mp4,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+office_occupancy,https://office-occupancy.s3.amazonaws.com/office_occupancy.mp4,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
