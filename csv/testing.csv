@@ -2,3 +2,4 @@ Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 office_occupancy,https://office-occupancy.s3.amazonaws.com/office_occupancy.mp4,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
 block_text,https://office-occupancy.s3.amazonaws.com/block_text_clip.mp4,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
 color_text,https://office-occupancy.s3.amazonaws.com/change_color.mp4,0:00:30,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+block_text2,https://office-occupancy.s3.amazonaws.com/block_text_clip2.mp4,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
