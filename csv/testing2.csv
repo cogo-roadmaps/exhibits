@@ -1,3 +1,2 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-block_text2,https://office-occupancy.s3.amazonaws.com/block_text_clip2.mp4,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
 june,https://office-occupancy.s3.amazonaws.com/june.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
