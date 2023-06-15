@@ -9,6 +9,9 @@ The TV directly pulls the configuration via Kandji blueprint named **Common TV**
 ### How to update display settings
 As setting configurations are controlled by **settings.json** simply modify the settings to pull from different CSVs located in the CSV folder. _Be sure to follow the following format in the settings.json or else it will error._
 
+### Display Video and Image Format
+Please be sure the video and image size is 1920 x 1080 or else the display won't show. It will go into an endless loop!!!!
+
 ### settings.json Format
 **Fields**  
 `default_panic-` (REQUIRED) : set to `true` to turn all screens into panic mode and displays the `default_panic_url-`   
