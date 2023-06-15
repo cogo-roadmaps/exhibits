@@ -3,10 +3,6 @@
     "default_panic_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv",
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
-        "Common-TV2": {
-            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/testing.csv",
-            "panic-": false
-        },
         "Noc1": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc1.csv",
             "panic-": false,
