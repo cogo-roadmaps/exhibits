@@ -4,7 +4,7 @@
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
         "Common-TV2": {
-            "url": "https://cogo-dashboards.s3.amazonaws.com/csv/commonTV.csv",
+            "url": "https://cogo-dashboards.s3.amazonaws.com/csv/testing.csv",
             "panic-": false
         },
         "Noc1": {
