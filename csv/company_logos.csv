@@ -1,0 +1,11 @@
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+cogo,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/cogo-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+vestmark,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/vestmark-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+vestigo,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/vestigo-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+minerva,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/minerva-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+ownup,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/ownup-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+themis,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/themis-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+smartertravel,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/smartertravel-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+catalan,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/catalan-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+datalign,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/datalign-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+linkventures,https://s3.amazonaws.com/directory.cogolabs.com/company_logos/link-venture-logo.png,0:00:20,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
