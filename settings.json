@@ -5,33 +5,27 @@
     "TV_configs": {
         "Noc1": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc1.csv",
-            "panic-": false,
-            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+            "panic-": false
         },
         "Noc2": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc2.csv",
-            "panic-": false,
-            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+            "panic-": false
         },
         "Noc3": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc3.csv",
-            "panic-": false,
-            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+            "panic-": false
         },
         "Noc4": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc4.csv",
-            "panic-": false,
-            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+            "panic-": false
         },
         "Noc5": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc5.csv",
-            "panic-": false,
-            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+            "panic-": false
         },
         "Noc6": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc6.csv",
-            "panic-": false,
-            "panic_url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv"
+            "panic-": false
         }
     }
 }
