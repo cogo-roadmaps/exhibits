@@ -1,5 +1,5 @@
 {
-    "default_panic-": false,
+    "default_panic-": true,
     "default_panic_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic.csv",
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
