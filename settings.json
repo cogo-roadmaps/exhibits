@@ -25,7 +25,7 @@
         },
         "Noc5": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc5.csv",
-            "panic-": false,
+            "panic-": true,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/company_logos.csv"
         },
         "Noc6": {
