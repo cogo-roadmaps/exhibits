@@ -21,32 +21,32 @@
         "Noc1": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc1.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/company_logos.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc1-panic.csv"
         },
         "Noc2": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc2.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/company_logos.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc2-panic.csv"
         },
         "Noc3": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc3.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/company_logos.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc3-panic.csv"
         },
         "Noc4": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc4.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/company_logos.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc4-panic.csv"
         },
         "Noc5": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc5.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/company_logos.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc5-panic.csv"
         },
         "Noc6": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc6.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/company_logos.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv"
         }
     }
 }
