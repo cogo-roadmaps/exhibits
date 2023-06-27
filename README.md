@@ -10,7 +10,8 @@ The TV directly pulls the configuration via Kandji blueprint named **Common TV**
 As setting configurations are controlled by **settings.json** simply modify the settings to pull from different CSVs located in the CSV folder. _Be sure to follow the following format in the settings.json or else it will error._
 
 ### Display Video and Image Format
-Please be sure the video and image size is 1920 x 1080 or else the display won't show. It will go into an endless loop!!!! Current images are stored in `cogo-dashboard/images` s3 bucket under `cogo-IT
+Please be sure the video and image size is 1920 * 1080 or else the display won't show. It will go into an endless loop!!!! Current images are stored in `cogo-dashboard/images` s3 bucket under `cogo-IT
+Noc wall tv dimensions are 1366 * 768
 
 ### settings.json Format
 **Fields**  
