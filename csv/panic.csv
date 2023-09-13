@@ -1,5 +1,5 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-CogoLabsLogo,https://cogo-dashboards.s3.amazonaws.com/images/cogo-labs-logo.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/2023 19:20,yes
-welcome,https://cogo-dashboards.s3.amazonaws.com/images/Welcome-to-cogo.mp4,0:00:20,1:00:00,06/27/2023 18:45,06/27/2023 21:30,yes
-bye,https://cogo-dashboards.s3.amazonaws.com/images/thank_you_for_coming.mp4,0:00:20,1:00:00,06/27/2023 21:30,06/27/2023 22:40,yes
-CogoLabsLogo,https://cogo-dashboards.s3.amazonaws.com/images/cogo-labs-logo.mp4,0:00:20,1:00:00,06/27/2023 22:40,06/28/2023 14:05,yes
+welcome1,https://cogo-dashboards.s3.amazonaws.com/images/1.png,0:00:20,1:00:00,1/1/18 0:00,06/27/2023 19:20,yes
+welcome2,https://cogo-dashboards.s3.amazonaws.com/images/1.png,0:00:20,1:00:00,06/27/2023 18:45,06/27/2023 21:30,yes
+bye,https://cogo-dashboards.s3.amazonaws.com/images/thank_you_for_coming.mp4,0:00:20,1:00:00,09/13/2023 20:10,09/27/2023 22:40,yes
+CogoLabsLogo,https://cogo-dashboards.s3.amazonaws.com/images/cogo-labs-logo.mp4,0:00:20,1:00:00,09/13/2023 20:10,09/28/2023 14:05,yes
