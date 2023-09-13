@@ -1,12 +1,12 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 vestigo,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/vestigo-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-cogo,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/cogo-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-link,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/link-venture-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-themis,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/themis-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-datalign,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/datalign-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-ownup,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/ownup-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
+cogo,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/cogo-panic.mp4,0:00:40,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
+link,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/link-venture-panic.mp4,0:00:30,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
+themis,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/themis-panic.mp4,0:00:40,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
+datalign,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/datalign-panic.mp4,0:00:30,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
+ownup,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/ownup-panic.mp4,0:00:40,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
 smartertravel,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/smartertravel-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-vestmark,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/vestmark-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-catalan,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/catalan-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-minvera,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/minerva-panic.mp4,0:00:20,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
-bye,https://cogo-dashboards.s3.amazonaws.com/images/thank_you_for_coming.mp4,0:00:20,1:00:00,06/27/23 21:30,06/28/23 21:30,yes
+vestmark,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/vestmark-panic.mp4,0:00:30,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
+catalan,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/catalan-panic.mp4,0:00:40,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
+minvera,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/minerva-panic.mp4,0:00:30,1:00:00,1/1/18 0:00,06/27/23 21:30,yes
+bye,https://cogo-dashboards.s3.amazonaws.com/images/thank_you_for_coming.mp4,0:00:40,1:00:00,06/27/23 21:30,06/28/23 21:30,yes
