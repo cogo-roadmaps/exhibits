@@ -4,19 +4,19 @@
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
         "Common-TV": {
-            "panic-": false
+            "panic-": true
         },
         "Common-TV2": {
-            "panic-": false
+            "panic-": true
         },
         "Common-TV3": {
-            "panic-": false
+            "panic-": true
         },
         "Common-TV4": {
-            "panic-": false
+            "panic-": true
         },
         "Milky-Way-Small-Apple-TV": {
-            "panic-": false
+            "panic-": true
         },
         "Noc1": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc1.csv",
