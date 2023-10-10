@@ -1,3 +1,5 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-cogo,https://cogo-dashboards.s3.amazonaws.com/images/cogo-labs-logo.mp4,0:00:30,1:00:00,1/1/18 0:00,12/31/23 21:30,yes
-vestigo,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/vestigo-panic.mp4,0:00:30,1:00:00,1/1/18 0:00,12/31/23 21:30,yes
+cogo,https://cogo-dashboards.s3.amazonaws.com/images/cogo-labs-logo.mp4,0:00:30,1:00:00,1/1/18 0:00,10/13/2023 21:30,yes
+vestigo,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/vestigo-panic.mp4,0:00:30,1:00:00,1/1/18 0:00,10/13/2023 21:30,yes
+vip-reception,https://cogo-dashboards.s3.amazonaws.com/images/2023+10+10+Event+Screens.mp4,0:00:20,1:00:00,10/10/2023 17:00,10/10/2023 20:30,yes
+CogoLabsLogo,https://cogo-dashboards.s3.amazonaws.com/images/cogo-labs-logo.mp4,0:00:20,1:00:00,10/10/2023 20:30,10/13/2023 14:05,yes
