@@ -20,33 +20,33 @@
         },
         "Noc1": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc1.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc1-panic.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc2": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc2.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc2-panic.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc3": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc3.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc3-panic.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc4": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc4.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc4-panic.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc5": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc5.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc5-panic.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc6": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc6.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         }
     }
 }
