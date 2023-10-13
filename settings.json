@@ -4,7 +4,7 @@
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
         "Common-TV": {
-            "panic-": true
+            "panic-": false
         },
         "Common-TV2": {
             "panic-": false
@@ -20,32 +20,32 @@
         },
         "Noc1": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc1.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc2": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc2.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc3": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc3.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc4": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc4.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc5": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc5.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         },
         "Noc6": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/noc6.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv"
         }
     }
