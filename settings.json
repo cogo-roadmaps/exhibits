@@ -1,10 +1,10 @@
 {
     "default_panic-": false,
-    "default_panic_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo.csv",
+    "default_panic_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/linkventures.csv",
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
         "Common-TV": {
-            "panic-": false
+            "panic-": true
         },
         "Common-TV2": {
             "panic-": false
