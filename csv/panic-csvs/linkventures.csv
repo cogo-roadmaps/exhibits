@@ -1,0 +1,3 @@
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+cogo,https://cogo-dashboards.s3.amazonaws.com/images/cogo-labs-logo.mp4,0:00:30,1:00:00,1/1/18 0:00,10/31/23 17:00,yes
+vestigo,https://cogo-dashboards.s3.amazonaws.com/noc_panic_logos/linkventures-panic.mp4,0:00:30,1:00:00,1/1/18 0:00,10/31/23 17:00,yes
