@@ -62,6 +62,11 @@
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv",
             "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv"
+        },
+        "entry": {
+            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
+            "panic-": false,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv"
         }
     }
 }
