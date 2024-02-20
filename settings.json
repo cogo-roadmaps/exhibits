@@ -57,6 +57,11 @@
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/andromeda.csv",
             "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/andromeda2.csv"
+        },
+        "linkventures": {
+            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/linkventures.csv",
+            "panic-": false,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/linkventures.csv"
         }
     }
 }
