@@ -55,7 +55,7 @@
         },
         "eastnoc2": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc2.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc3-panic.csv"
         },
         "eastnoc3": {
