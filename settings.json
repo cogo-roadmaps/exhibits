@@ -49,32 +49,32 @@
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv"
         },
         "eastnoc1": {
-            "url": "https://cogo-dashboards.s3.amazonaws.com/noc6.csv",
-            "panic-": true,
+            "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc1.csv",
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv"
         },
         "eastnoc2": {
-            "url": "https://cogo-dashboards.s3.amazonaws.com/noc3.csv",
+            "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc2.csv",
             "panic-": true,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc3-panic.csv"
         },
         "eastnoc3": {
-            "url": "https://cogo-dashboards.s3.amazonaws.com/noc4.csv",
+            "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc3.csv",
             "panic-": true,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc4-panic.csv"
         },
         "eastnoc4": {
-            "url": "https://cogo-dashboards.s3.amazonaws.com/noc5.csv",
+            "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc4.csv",
             "panic-": true,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc5-panic.csv"
         },
         "eastnoc5": {
-            "url": "https://cogo-dashboards.s3.amazonaws.com/noc6.csv",
+            "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc5.csv",
             "panic-": true,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv"
         },
          "eastnoc6": {
-            "url": "https://cogo-dashboards.s3.amazonaws.com/noc2.csv",
+            "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc6.csv",
             "panic-": true,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc2-panic.csv"
         },
