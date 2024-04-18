@@ -99,7 +99,7 @@
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/linkventures.csv"
         },
         "media-noc": {
-            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/entry.csv",
+            "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/media.csv",
             "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/linkventures.csv"
         }
