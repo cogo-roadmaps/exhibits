@@ -47,7 +47,7 @@
         "Noc6": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc6.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csvv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc6-panic.csv"
         },
         "eastnoc1": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc1.csv",
