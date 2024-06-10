@@ -22,32 +22,32 @@
         "Noc1": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/stm-noc.csv",
             "panic-": true,
-            "panic_url":"https://cogo-dashboards.s3.amazonaws.com/images/dvxscreen.png"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/dvx.csv"
         },
         "Noc2": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc2.csv",
             "panic-": false,
-            "panic_url":"https://cogo-dashboards.s3.amazonaws.com/images/dvxscreen.png"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/dvx.csv"
         },
         "Noc3": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc3.csv",
             "panic-": false,
-            "panic_url":"https://cogo-dashboards.s3.amazonaws.com/images/dvxscreen.pngv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/dvx.csv"
         },
         "Noc4": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc4.csv",
             "panic-": false,
-            "panic_url":"https://cogo-dashboards.s3.amazonaws.com/images/dvxscreen.png"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/dvx.csv"
         },
         "Noc5": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc5.csv",
             "panic-": false,
-            "panic_url":"https://cogo-dashboards.s3.amazonaws.com/images/dvxscreen.png"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/dvx.csv"
         },
         "Noc6": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc6.csv",
             "panic-": false,
-            "panic_url":"https://cogo-dashboards.s3.amazonaws.com/images/dvxscreen.png"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/dvx.csv"
         },
         "eastnoc1": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc1.csv",
