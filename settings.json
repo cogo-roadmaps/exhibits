@@ -5,7 +5,7 @@
     "TV_configs": {
         "Common-TV": {
             "panic-": false,
-            "panic_url":"https://cogo-dashboards.s3.amazonaws.com/images/dvxscreen.png"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/dvx.csv"
         },
         "Common-TV2": {
             "panic-": false
