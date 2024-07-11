@@ -1,23 +1,23 @@
 {
     "default_panic-": false,
-    "default_panic_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/linkventures-welcome.csv",
+    "default_panic_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/interns.csv",
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
         "Common-TV": {
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/dvx.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/interns.csv"
         },
         "Common-TV2": {
-            "panic-": false
+            "panic-": true
         },
         "Common-TV3": {
-            "panic-": false
+            "panic-": true
         },
         "Common-TV4": {
-            "panic-": false
+            "panic-": true
         },
         "Milky-Way-Small-Apple-TV": {
-            "panic-": false
+            "panic-": true
         },
         "Noc1": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/stm-noc.csv",
