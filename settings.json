@@ -96,8 +96,8 @@
         },
         "entry": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/entry.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/linkventures.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/vestigo-welcome.csv"
         },
         "media-noc": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/media.csv",
