@@ -4,7 +4,7 @@
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
         "Common-TV": {
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/fallfest.csv"
         },
         "Common-TV2": {
@@ -17,7 +17,7 @@
             "panic-": false
         },
         "Milky-Way-Small-Apple-TV": {
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/fallfest.csv"
         },
         "Noc1": {
