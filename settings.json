@@ -103,7 +103,7 @@
         "media-noc": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/media.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/linkventures-welcome.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/catalan1.csv"
         }
     }
 }
