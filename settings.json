@@ -82,8 +82,8 @@
         },
         "SmarterTravel-NOC": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/stm-noc.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/linkventures.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/stm-panic.csv"
         },
         "Andromeda-NOC": {
             "url": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/andromeda.csv",
