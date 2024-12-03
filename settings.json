@@ -37,8 +37,8 @@
         },
         "Noc4": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc4.csv",
-            "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/catalan2.csv"
+            "panic-": true,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/noc1-panic.csv"
         },
         "Noc5": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc5.csv",
