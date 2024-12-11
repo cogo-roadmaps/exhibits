@@ -28,27 +28,27 @@
         "Noc2": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc2.csv",
             "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/catalan2.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday2.csv"
         },
         "Noc3": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc3.csv",
             "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/catalan1.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday3.csv"
         },
         "Noc4": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc4.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday2.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday3.csv"
         },
         "Noc5": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc5.csv",
             "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/catalan1.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday2.csv"
         },
         "Noc6": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc6.csv",
             "panic-": false,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/catalan2.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday1.csv"
         },
         "eastnoc1": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/eastnoc1.csv",
