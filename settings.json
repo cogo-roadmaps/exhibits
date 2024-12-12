@@ -4,7 +4,7 @@
     "default_url-": "https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/commonTV.csv",
     "TV_configs": {
         "Common-TV": {
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/commontv-holiday.csv"
         },
         "Common-TV2": {
@@ -23,31 +23,31 @@
         "Noc1": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/stm-noc.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday1.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc1-panic.csv"
         },
         "Noc2": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc2.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday2.csv"
         },
         "Noc3": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc3.csv",
-            "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday3.csv"
+            "panic-": false,
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc3-panic.csv"
         },
         "Noc4": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc4.csv",
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday3.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc4-panic.csv"
         },
         "Noc5": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc5.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday2.csv"
         },
         "Noc6": {
             "url": "https://cogo-dashboards.s3.amazonaws.com/noc6.csv",
-            "panic-": true,
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/holiday1.csv"
         },
         "eastnoc1": {
