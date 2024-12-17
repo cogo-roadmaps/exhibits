@@ -1,12 +1,2 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-slide1,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide1.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide2,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide2.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide3,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide3.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide4,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide4.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide5,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide5.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide6,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide6.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide7,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide7.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide8,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide8.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide9,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide9.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide10,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide10.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
-slide11,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy/Slide11.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
+slide1,https://cogo-dashboards.s3.us-east-1.amazonaws.com/images/blitzy-logo.png,0:00:30,1:00:00,1/1/18 0:00,10/31/30 17:00,yes
