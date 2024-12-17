@@ -5,7 +5,7 @@
     "TV_configs": {
         "Common-TV": {
             "panic-": true,
-            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/blitzy.csv"
+            "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/blitzy-slides.csv"
         },
         "Common-TV2": {
             "panic-": false
