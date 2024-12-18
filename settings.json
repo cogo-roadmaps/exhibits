@@ -21,8 +21,8 @@
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/refs/heads/main/csv/panic-csvs/fallfest.csv"
         },
         "Noc1": {
-            "url": "https://cogo-dashboards.s3.amazonaws.com/stm-noc.csv",
-            "panic-": true,
+            "url": "https://cogo-dashboards.s3.amazonaws.com/noc1.csv",
+            "panic-": false,
             "panic_url":"https://raw.githubusercontent.com/cogo-roadmaps/exhibits/main/csv/panic-csvs/noc1-panic.csv"
         },
         "Noc2": {
